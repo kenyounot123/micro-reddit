@@ -1,24 +1,15 @@
-# README
+# Micro-Reddit
+Using Ruby On Rails developed the back-end of reddit using Ruby On Rails on a way smaller scale.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Focused on generating models with validations and associations.
 
-Things you may want to cover:
+* Used Rails Console
 
-* Ruby version
+* Learned a lot about data models and their relationships.
 
-* System dependencies
+* User, Post, Comment models
 
-* Configuration
+* Allow users to be on the site, submit links(Posts), and to comment on them.
 
-* Database creation
+* Associations allowed certain relationships like each comment belonging to a user, each post has many comments, and each user has posts and comments.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
